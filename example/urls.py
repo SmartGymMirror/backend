@@ -1,9 +1,6 @@
-# example/urls.py
 from django.urls import path
-
-from example.views import index
-
+from .views import get_weather
 
 urlpatterns = [
-    path('', index),
+    path('weather/', get_weather, name='get_weather'),
 ]
