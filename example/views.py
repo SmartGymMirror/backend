@@ -19,3 +19,6 @@ def get_weather(request):
     except requests.exceptions.RequestException as err:
         return JsonResponse({'error': f'Error de solicitud: {err}'}, status=500)
 
+def test_cors(request):
+    response = JsonResponse({'message': 'CORS test successful'})
+    return response
