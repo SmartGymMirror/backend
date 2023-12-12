@@ -19,14 +19,43 @@ def get_weather(request):
     except requests.exceptions.RequestException as err:
         return JsonResponse({'error': f'Error de solicitud: {err}'}, status=500)
 
+from django.http import JsonResponse
+
 def datos_ficticios(request):
-    datos_ficticios = {
-        "timestamp": "2023-12-15T08:19:07.082000Z",
-        "weight": "72.50",
-        "muscular_mass": "40.00",
-        "body_fat": "16.20"
-    }
-    return JsonResponse(datos_ficticios)
+    datos_ficticios = [
+        {
+            "timestamp": '2023-12-11T08:18:20.665807Z',
+            "weight": '70.00',
+            "muscular_mass": '35.00',
+            "body_fat": '15.60',
+        },
+        {
+            "timestamp": '2023-12-12T08:18:34.566000Z',
+            "weight": '70.50',
+            "muscular_mass": '35.50',
+            "body_fat": '16.00',
+        },
+        {
+            "timestamp": '2023-12-13T08:18:49.527000Z',
+            "weight": '72.50',
+            "muscular_mass": '30.50',
+            "body_fat": '14.00',
+        },
+        {
+            "timestamp": '2023-12-14T08:18:59.103000Z',
+            "weight": '72.50',
+            "muscular_mass": '36.00',
+            "body_fat": '14.00',
+        },
+        {
+            "timestamp": '2023-12-15T08:19:07.082000Z',
+            "weight": '72.50',
+            "muscular_mass": '40.00',
+            "body_fat": '16.20',
+        },
+    ]
+    return JsonResponse(datos_ficticios, safe=False)
+
 def test_cors(request):
     response = JsonResponse({'message': 'CORS test successful'})
     return response
