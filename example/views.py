@@ -19,6 +19,14 @@ def get_weather(request):
     except requests.exceptions.RequestException as err:
         return JsonResponse({'error': f'Error de solicitud: {err}'}, status=500)
 
+def datos_ficticios(request):
+    datos_ficticios = {
+        "timestamp": "2023-12-15T08:19:07.082000Z",
+        "weight": "72.50",
+        "muscular_mass": "40.00",
+        "body_fat": "16.20"
+    }
+    return JsonResponse(datos_ficticios)
 def test_cors(request):
     response = JsonResponse({'message': 'CORS test successful'})
     return response
