@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders', # Django module for handling CORS
     'example'
+    'rest_framework',
+    'djoser',
+    'cuentas',
 ]
 
 MIDDLEWARE = [
