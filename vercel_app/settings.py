@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corsheaders', # Django module for handling CORS
-    'example'
+    'example',
     'rest_framework',
     'djoser',
     'cuentas',
