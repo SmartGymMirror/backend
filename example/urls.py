@@ -5,6 +5,6 @@ urlpatterns = [
     path('weather/', get_weather, name='get_weather'),
     path('test-cors/', test_cors, name='test_cors'),
     path('datos-ficticios/', datos_ficticios, name='datos_ficticios'),
-    path('squat-counter/', squat_counter, name='squat_counter')
+    #path('squat-counter/', squat_counter, name='squat_counter')
 
 ]
