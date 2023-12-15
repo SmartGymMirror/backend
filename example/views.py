@@ -2,8 +2,8 @@ from django.http import JsonResponse
 from django.http import HttpResponse
 #import mediapipe as mp
 #import cv2
-import numpy as np
-from math import acos, degrees
+#import numpy as np
+#from math import acos, degrees
 import requests
 
 def get_weather(request):
