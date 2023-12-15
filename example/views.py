@@ -1,7 +1,7 @@
 from django.http import JsonResponse
 from django.http import HttpResponse
 #import mediapipe as mp
-import cv2
+#import cv2
 import numpy as np
 from math import acos, degrees
 import requests
