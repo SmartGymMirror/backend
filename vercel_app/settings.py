@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'example',
     'rest_framework',
     'djoser',
-    'cuentas',
     # 'mediapipe',
 ]
 
