@@ -42,8 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'djoser',
     'cuentas',
-    'rest_framework_simplejwt',
-    'autentificacion',
+    # 'mediapipe',
 ]
 
 MIDDLEWARE = [
