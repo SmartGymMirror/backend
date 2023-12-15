@@ -1,6 +1,6 @@
 from django.http import JsonResponse
 from django.http import HttpResponse
-import mediapipe as mp
+#import mediapipe as mp
 import cv2
 import numpy as np
 from math import acos, degrees
@@ -63,7 +63,7 @@ def datos_ficticios(request):
 def test_cors(request):
     response = JsonResponse({'message': 'CORS test successful'})
     return response
-
+'''
 def squat_counter(request):
     mp_drawing = mp.solutions.drawing_utils
     mp_pose = mp.solutions.pose
@@ -143,4 +143,4 @@ def squat_counter(request):
                 break
 
     cap.release()
-    cv2.destroyAllWindows()
+    cv2.destroyAllWindows()'''
