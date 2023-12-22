@@ -5,9 +5,9 @@
 
 Aunque este sea el repositorio destinado al backend vamos a subir aquí los enlaces a los demás repositorios para no enviar tantos archivos:
 
-1.Link del [backend](https://github.com/albabernal03/ejercicios_parejas_POO)
+-Link del [backend](https://github.com/albabernal03/ejercicios_parejas_POO)
 
-2.Link del [frontend]()
+-Link de [prototipos](https://github.com/SmartGymMirror/prototipos)
 
 
 ***
@@ -17,7 +17,7 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 ## Integrantes
 
 1. [Alba](https://github.com/albabernal03) 
-2. [Carlota]()
+2. [Carlota](https://github.com/crltsnch)
 
 
 
