@@ -17,6 +17,10 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 
 -Link donde [se probó el backend incialmente](https://github.com/SmartGymMirror/smart_gym_mirror_api)
 
+-Link [prueba chat](https://github.com/SmartGymMirror/chat)
+
+-Link donde se probo [API weather](https://github.com/SmartGymMirror/weather_api)
+
 
 ***
 
@@ -29,6 +33,9 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 3. [Laura](https://github.com/lauralardies)
 4. [Miguel](https://github.com/MiguelGG03)
 5. [Ana](https://github.com/AnaLopezP)
+6. [Zazo](https://github.com/jzazooro)
+7. [Nacho](https://github.com/Nachopedrero)
+8. [Andrea](https://github.com/andmansim)
 
 
 
