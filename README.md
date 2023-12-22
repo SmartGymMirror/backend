@@ -9,7 +9,7 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 
 -Link de [prototipos](https://github.com/SmartGymMirror/prototipos)
 
--Link de [frontend](https://github.com/SmartGymMirror/frontend)
+-Link de [frontend](https://github.com/SmartGymMirror/frontend) (METERSE AQUÍ PARA PODER VISUALIZAR EL PROYECTO)
 
 -Link de [la primera prueba usuario](https://github.com/lauralardies)
 
