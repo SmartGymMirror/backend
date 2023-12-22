@@ -9,6 +9,8 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 
 -Link de [prototipos](https://github.com/SmartGymMirror/prototipos)
 
+-Link de [frontend](https://github.com/SmartGymMirror/frontend)
+
 
 ***
 
@@ -18,6 +20,7 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 
 1. [Alba](https://github.com/albabernal03) 
 2. [Carlota](https://github.com/crltsnch)
+3. [Laura](https://github.com/lauralardies)
 
 
 
