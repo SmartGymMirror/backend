@@ -36,6 +36,7 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 6. [Zazo](https://github.com/jzazooro)
 7. [Nacho](https://github.com/Nachopedrero)
 8. [Andrea](https://github.com/andmansim)
+9. [Sergio](https://github.com/dacalite)
 
 
 
