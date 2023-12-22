@@ -15,6 +15,8 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 
 -Link de [la segunda prueba de usuario](https://github.com/SmartGymMirror/usuario)
 
+-Link donde [se probó el backend incialmente](https://github.com/SmartGymMirror/smart_gym_mirror_api)
+
 
 ***
 
@@ -26,6 +28,7 @@ Aunque este sea el repositorio destinado al backend vamos a subir aquí los enla
 2. [Carlota](https://github.com/crltsnch)
 3. [Laura](https://github.com/lauralardies)
 4. [Miguel](https://github.com/MiguelGG03)
+5. [Ana](https://github.com/AnaLopezP)
 
 
 
