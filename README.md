@@ -1,3 +1,32 @@
+
+<h1 align="center">Backend</h1>
+
+<h2>Repositorio:</h2>
+Aunque este sea el repositorio destinado al backend vamos a subir aquí los enlaces a los demás repositorios para no enviar tantos archivos:
+
+-Link del [backend](https://github.com/albabernal03/ejercicios_parejas_POO)
+-Link del [frontend]()
+
+
+***
+
+
+***
+## Integrantes
+
+1. [Alba](https://github.com/albabernal03) 
+2. [Carlota]()
+
+
+
+
+
+
+
+
+
+
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fpython%2Fdjango&demo-title=Django%20%2B%20Vercel&demo-description=Use%20Django%204%20on%20Vercel%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fdjango-template.vercel.app%2F&demo-image=https://assets.vercel.com/image/upload/v1669994241/random/django.png)
 
 # Django + Vercel
